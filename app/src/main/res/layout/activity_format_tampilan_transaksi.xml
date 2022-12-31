@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="30dp"
+    android:layout_height="wrap_content"
+    tools:context=".FormatTampilanTransaksi">
+
+    <TextView
+        android:id="@+id/kobar"
+        android:layout_width="wrap_content"
+        android:hint="Kode"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/nabar"
+        android:layout_width="wrap_content"
+        android:hint="Nama Barang"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/satbar"
+        android:layout_width="wrap_content"
+        android:hint="Satuan"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/jumbar"
+        android:layout_width="wrap_content"
+        android:hint="Jumlah"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/habar"
+        android:layout_width="wrap_content"
+        android:hint="Harga"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584621840708",
+    "project_id": "aplikasi-penjualan-barang",
+    "storage_bucket": "aplikasi-penjualan-barang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584621840708:android:3cf13ea543576295171f11",
+        "android_client_info": {
+          "package_name": "com.example.aplikasipenjualan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584621840708-d172drbgkhk4meh3hvjbq1al2kq0eg2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9IS_5nE2_BO_6lw51FL6Svs4fEaGEVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584621840708-d172drbgkhk4meh3hvjbq1al2kq0eg2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

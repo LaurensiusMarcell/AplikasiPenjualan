@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikasi Penjualan</string>
+
+    <string-array name="satuanbrg">
+        <item>Lusin</item>
+        <item>Kilo</item>
+        <item>Pcs</item>
+        <item>Meter</item>
+        <item>Botol</item>
+        <item>Gross</item>
+    </string-array>
+</resources>
